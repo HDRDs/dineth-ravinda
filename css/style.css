@@ -479,6 +479,10 @@ h6,
     background: linear-gradient(to bottom right, var(--secondary), var(--primary));
 }
 
+/***Content***/
+.content {
+            cursor: pointer; /* Change cursor to pointer */
+        }
 
 /*** Footer ***/
 .footer {
@@ -556,4 +560,5 @@ h6,
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+
 }
